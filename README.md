@@ -2,7 +2,7 @@
 
 Super simple static website creation.
 
-Bash script in `script/build` takes html files in `layout` and executes mardown for pages in `pages` and puts everthing in `out`. Also copies whole `images` folder.
+Bash script in `script/build` takes html files in `layout` and executes mardown for pages in `pages` and puts everything in `public`. Also copies whole `images` folder. Deployment via vercel. Install dependencies by hand, its simple, who cares, done is better than perfect.
 
 ## Dependencies
 
