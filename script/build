@@ -3,7 +3,7 @@
 rm -rf public
 
 mkdir public
-cp -R images out/images
+cp -R images public/images
 
 for f in pages/*.md
 do
