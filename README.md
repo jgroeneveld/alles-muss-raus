@@ -13,7 +13,7 @@ npm i -g vercel
 ## Commands
 
 ```
-script/build # build into out
+script/build # build into public
 script/serve # run php as a local webserver for convenience
 script/deploy # deploy via vercel
 ```
