@@ -10,7 +10,7 @@
 
 ### Canyon Endurace CF 8.0 XL Katusha Red
 
-1950 Neupreis
+Neupreis war damals 1950 
 
 gekauft 06/2019, Rechnung vorhanden
 ~ 200km laut Strava
@@ -24,7 +24,7 @@ https://www.canyon.com/en-de/road-bikes/endurance-bikes/endurace/endurace-cf-8.0
 
 ### Felt F5
 
-Neupreis 1300
+Neupreis war damals 1300
 
 gekauft 09/2017
 laut strava ~1000km
@@ -35,7 +35,7 @@ laut strava ~1000km
 
 Natürlich mit Anschlusskabel, Achse und Vorderrad-Stand.
 
-Neupreis 550
+Neupreis war damals 550
 Gekauft 09/2018
 
 ![IMG_5279.jpeg](images/IMG_5279.jpeg)
@@ -44,7 +44,7 @@ Gekauft 09/2018
 
 Selle SMP Pro Rot
 
-Neupreis 170
+Neupreis war damals 170
 gekauft 09/2018
 
 Wie neu, nur 2x benutzt.

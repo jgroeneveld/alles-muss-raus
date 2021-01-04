@@ -1,4 +1,4 @@
-[Startseite](/index.html) - [Rennrad Fahrrad Zeug](/Fahrradkram.html)
+[Startseite](/index.html) - [Rennrad Fahrrad Zeug](/fahrradkram.html) - [Brettspiele](/brettspiele.html) - [Fotozeug](/fotozeug.html) -[Misc](/misc.html)
 
 # Alles muss raus
 
