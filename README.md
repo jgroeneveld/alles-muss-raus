@@ -15,5 +15,5 @@ npm i -g vercel
 ```
 script/build # build into out
 script/serve # run php as a local webserver for convenience
-script/deploy # deploy via vercel
+script/deploy # deploy via vercel (but it also is linked as github repo hook)
 ```
