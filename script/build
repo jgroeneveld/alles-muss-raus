@@ -1,0 +1,24 @@
+#!/bin/sh 
+
+rm -rf out
+
+mkdir out
+cp -R images out/images
+
+# cat layout/header.html > out/Fahrradkram.html
+# markdown Fahrradkram.md >> out/Fahrradkram.html
+# cat layout/footer.html >> out/Fahrradkram.html
+
+for f in pages/*.md
+do
+    echo "Processing $f file..."
+    base=$(basename $f .md)
+    echo "As $base file..."
+
+    cat layout/header.html > out/$base.html
+    markdown layout/page-head.md >> out/$base.html
+
+    markdown $f >> out/$base.html
+
+    cat layout/footer.html >> out/$base.html
+done
