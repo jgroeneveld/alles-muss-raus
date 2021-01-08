@@ -1,5 +1,18 @@
 ## Brettspiele
 
+### A few
+
+- Dominion (benutzt aber gut) + Dominion Seaside (ungespielt)
+- Die Legenden von Andor + Extension Neue Helden (benutzt aber gut)
+- Der eiserne Thron (Game of Thrones) (benutzt)
+- Star Munchkin (benutzt)
+- Exploding Kittens (benutzt aber gut)
+- Smashup 9000 (Extension?) (benutzt aber gut)
+
+![IMG_5307.jpeg](images/IMG_5307.jpeg)
+![IMG_5308.jpeg](images/IMG_5308.jpeg)
+
+
 ### Wikinger
 
 Wikinger Brettspiel. Einwandfrei erhalten und komplett.
