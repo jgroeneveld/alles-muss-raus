@@ -1,4 +1,4 @@
  - [Rennrad Fahrrad Zeug](/fahrradkram.html)
- - [Brettspiele](/brettspiele.html)
+ - [PS4 + Games / Boardgames](/brettspiele.html)
  - [Fotozeug](/fotozeug.html)
  - [Misc](/misc.html)

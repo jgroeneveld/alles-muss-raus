@@ -1,6 +1,16 @@
-## Brettspiele
+## Games
 
-### A few
+### PS4 + Games
+
+Funktioniert. Gerade auf neueste Version geupdated und probiert.
+
+- PS4 500 GB
+- 2 Controller
+- 11 Games (Keine Kratzer) *Tomb Raider, Mad Max, Uncharted 4, Alien Isolation, Knack, Killzone, Raymen, Diablo 3, inFAMOUS, Shadow of Mordor, Assassins Creed Black Flag*
+![IMG_5327.jpeg](images/IMG_5327.jpeg)
+![IMG_5324.jpeg](images/IMG_5324.jpeg)
+
+### Brettspiele
 
 - Dominion (benutzt aber gut) + Dominion Seaside (ungespielt)
 - Die Legenden von Andor + Extension Neue Helden (benutzt aber gut)

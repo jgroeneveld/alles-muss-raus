@@ -22,14 +22,14 @@ https://www.canyon.com/en-de/road-bikes/endurance-bikes/endurace/endurace-cf-8.0
 
 ![IMG_5276.jpeg](images/IMG_5276.jpeg)
 
-### Felt F5
+### Felt F5 56cm
 
 Neupreis war damals 1300
 
 gekauft 09/2017
 laut strava ~1000km
 
-[FOTO Folgt]
+![IMG_5311.jpeg](images/IMG_5311.jpeg)
 
 ### Wahoo Kickr Snap
 
