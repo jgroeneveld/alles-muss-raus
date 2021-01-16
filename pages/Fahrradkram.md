@@ -4,8 +4,6 @@
 
 - Rennrad: Felt F5 56cm
 
-- Rolle: Wahoo Kickr Snap
-
 - Sattel: Selle SMP Pro Rot
 
 ### Canyon Endurace CF 8.0 XL Katusha Red
@@ -30,15 +28,6 @@ gekauft 09/2017
 laut strava ~1000km
 
 ![IMG_5311.jpeg](images/IMG_5311.jpeg)
-
-### Wahoo Kickr Snap
-
-Natürlich mit Anschlusskabel, Achse und Vorderrad-Stand.
-
-Neupreis war damals 550
-Gekauft 09/2018
-
-![IMG_5279.jpeg](images/IMG_5279.jpeg)
 
 ### Selle SMP Pro Rot
 

@@ -1,15 +1,5 @@
 ## Games
 
-### PS4 + Games
-
-Funktioniert. Gerade auf neueste Version geupdated und probiert.
-
-- PS4 500 GB
-- 2 Controller
-- 11 Games (Keine Kratzer) *Tomb Raider, Mad Max, Uncharted 4, Alien Isolation, Knack, Killzone, Raymen, Diablo 3, inFAMOUS, Shadow of Mordor, Assassins Creed Black Flag*
-![IMG_5327.jpeg](images/IMG_5327.jpeg)
-![IMG_5324.jpeg](images/IMG_5324.jpeg)
-
 ### Brettspiele
 
 - Dominion (benutzt aber gut) + Dominion Seaside (ungespielt)
@@ -18,6 +8,8 @@ Funktioniert. Gerade auf neueste Version geupdated und probiert.
 - Star Munchkin (benutzt)
 - Exploding Kittens (benutzt aber gut)
 - Smashup 9000 (Extension?) (benutzt aber gut)
+- Der Widerstand
+- Pandemie
 
 ![IMG_5307.jpeg](images/IMG_5307.jpeg)
 ![IMG_5308.jpeg](images/IMG_5308.jpeg)
