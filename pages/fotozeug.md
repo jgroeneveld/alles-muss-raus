@@ -16,6 +16,22 @@ Ist benutzt aber funktioniert einwandfrei. Auch super als Webcam einzusetzen fü
 
 ### Fotostudio Ausstattung
 
+Hi,
+ich bitte mein Hobby Fotostudio.
+
+2 * C-Stands: Neewer 2X Hochleistungs Max 3 Meter mit 1,2 Meter Haltearm und Griffkopf Set (Neupreis 200 Euro)
+Rollei Studioblitz 400 [Neupreis 200 Euro]
+Rollei Profi U7 Funk-Sender [Neupreis 45 Euro]
+Große Softbox: Phot-R® Professional 80 x 120cm Folding Strip Softbox with Bowens S-Type Spee  [Neupreis 60 Euro]
+Dish: Phot-R® 22" 56cm Foto-Studio White Beauty Dish mit Diffusor und Wabe [Neupreis 100 Euro]
+
+Neupreis für alles zusammen war ~600 Euro.
+Sonderpreis für alles zusammen 50%.
+
+Es ist alles sehr wenig und nicht komerziell genutzt, aufgrund von Bowens Halterung erweiterbar mit beliebigen Aufsetzen usw. Die Stative sind sehr sehr stabil.
+
+Nur Abholung in Hamburg Eppendorf.
+
 #### 2 C-Stands
 Neewer 2X Hochleistungs Max 3 Meter mit 1,2 Meter Haltearm und Griffkopf Set für Studio Video Reflektor, Monolight und andere Fotoausrüstung
 ![61Av5rBPb3L._AC_SL1500_.jpg](images/61Av5rBPb3L._AC_SL1500_.jpg)
